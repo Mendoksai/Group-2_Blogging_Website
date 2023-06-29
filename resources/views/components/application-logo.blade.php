@@ -1,0 +1,1 @@
+<img class="w-full h-auto" src="{{ asset('logo/psu.png') }}" alt="logo">
